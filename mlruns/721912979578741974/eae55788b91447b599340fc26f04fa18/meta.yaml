@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/eae55788b91447b599340fc26f04fa18/artifacts
+end_time: 1747874706422
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: eae55788b91447b599340fc26f04fa18
+run_name: Model_Decision Tree
+run_uuid: eae55788b91447b599340fc26f04fa18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874386512
+status: 4
+tags: []
+user_id: arpan

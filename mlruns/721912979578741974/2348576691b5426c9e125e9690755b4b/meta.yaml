@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/2348576691b5426c9e125e9690755b4b/artifacts
+end_time: 1747874531775
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: 2348576691b5426c9e125e9690755b4b
+run_name: Model_Linear Regression
+run_uuid: 2348576691b5426c9e125e9690755b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874526437
+status: 3
+tags: []
+user_id: arpan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/6c0c975a54934dd0bc3a7f8bd5d98135/artifacts
+end_time: 1747874474519
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: 6c0c975a54934dd0bc3a7f8bd5d98135
+run_name: Model_Random Forest
+run_uuid: 6c0c975a54934dd0bc3a7f8bd5d98135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874460777
+status: 3
+tags: []
+user_id: arpan

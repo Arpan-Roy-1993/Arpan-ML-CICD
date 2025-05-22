@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/124f47afa9ea42df93363fb2e94ef4dc/artifacts
+end_time: 1747874892824
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: 124f47afa9ea42df93363fb2e94ef4dc
+run_name: Model_Gradient Boosting
+run_uuid: 124f47afa9ea42df93363fb2e94ef4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874856997
+status: 3
+tags: []
+user_id: arpan

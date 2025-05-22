@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/c351d9768cfa4f9c8e34d8e4a9d9030e/artifacts
+end_time: 1747874549418
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: c351d9768cfa4f9c8e34d8e4a9d9030e
+run_name: Model_XGBRegressor
+run_uuid: c351d9768cfa4f9c8e34d8e4a9d9030e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874531790
+status: 3
+tags: []
+user_id: arpan

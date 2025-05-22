@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/925d011577764e1f9f0f47e0d7f00337/artifacts
+end_time: 1747874654813
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: 925d011577764e1f9f0f47e0d7f00337
+run_name: Model_AdaBoost Regressor
+run_uuid: 925d011577764e1f9f0f47e0d7f00337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874375624
+status: 3
+tags: []
+user_id: arpan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpan/OneDrive/Documents/GitHub/arpan-CI/CD/mlruns/721912979578741974/118854da46fe4a0ea5a904b4566e1818/artifacts
+end_time: 1747874932177
+entry_point_name: ''
+experiment_id: '721912979578741974'
+lifecycle_stage: active
+run_id: 118854da46fe4a0ea5a904b4566e1818
+run_name: Model_CatBoosting Regressor
+run_uuid: 118854da46fe4a0ea5a904b4566e1818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747874912008
+status: 3
+tags: []
+user_id: arpan
